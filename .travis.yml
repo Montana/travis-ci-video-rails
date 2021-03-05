@@ -1,0 +1,6 @@
+---
+language: ruby
+dist: focal
+rvm: 2.5.0
+
+  # ruby test

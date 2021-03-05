@@ -1,6 +1,7 @@
 ---
-language: ruby 
-dist: focal 
-rvm: 2.5.0 
+language: ruby
+dist: focal
 
-  # ruby .travis.yml config 
+script: echo "its built!"
+
+  # travis build, don't forget to lint!
